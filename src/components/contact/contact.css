@@ -1,7 +1,7 @@
 .container.contact__container {
     width: 50%;
     display: grid;
-    grid-template-columns: 30% 58%;
+    grid-template-columns: 35% 53%;
     gap: 12%;
 }
 
@@ -37,7 +37,8 @@
     font-size: 0.8rem;
 }
 .contact__option h5 {
-    color: var(--color-light)
+    color: var(--color-light);
+    font-size: 0.7rem;
 }
 
 /* Start Form Styling */
