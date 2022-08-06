@@ -40,7 +40,8 @@ const about = () => {
           </article>
         </div>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt delectus aspernatur placeat fugiat voluptate rem dicta? Aut quos consectetur harum saepe, obcaecati veniam ullam error ipsum tempore tenetur rerum expedita?</p>
+        <p>A little about myself: I'm a professioanl front-end web developer building visually engaging interfaces and attention-gaining applications. I received my training at the University of Texas at Austin's Full Stack Coding Bootcamp. I specialize in writing HTML, CSS, Javascript, React, and Wordpress, with an emphasis on responsive, mobile-friendly design. With each project, my goal is to create an engaging interface that creates a seamless user experience across all facets of the application. I'm currently working for White Hat Agency, a creative marketing company based in Austin, TX. 
+</p>
           
         <a href="#contact" className='btn btn-primary' >Let's Talk</a>
 
