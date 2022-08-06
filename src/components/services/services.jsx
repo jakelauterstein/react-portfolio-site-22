@@ -47,7 +47,7 @@ const services = () => {
           <ul className="service__list">
           <li>
               <BiCheck className='service__list-icon'/>
-              <p>Search engine optimization keeps your website on the top tier of google results.</p>
+              <p>Search engine optimization keeps your website on google's top tier.</p>
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
@@ -55,7 +55,7 @@ const services = () => {
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Database integration keeps your users personal data secure and your record-keeping stress-free</p>
+              <p>Database integration keeps your users personal data secure and your record-keeping stress-free.</p>
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
@@ -63,7 +63,7 @@ const services = () => {
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Cutting-edge plugins create high-level functionality with minimal overhead.</p>
+              <p>Cutting-edge plugins create high-level functionality with minimal overhead. </p>
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
@@ -80,7 +80,7 @@ const services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Brand-curated media assets bring a cohesive feel to your social media platforms.</p>
+              <p>Brand-curated media assets bring a cohesive feel to your social media platforms. </p>
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
@@ -88,15 +88,15 @@ const services = () => {
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Social media optimization keeps your business trending on all of the major apps.</p>
+              <p>Social media optimization keeps your business trending on all of the major apps. </p>
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Viral marketing campaigns lead to optimized cross-platform lead generation.</p>
+              <p>Viral marketing campaigns lead to optimized cross-platform lead generation. </p>
             </li> 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Merchandise assistance and event coordination promotes brand awareness in your community and abroad.</p>
+              <p>Merchandise assistance and event coordination promotes brand awareness in your community and abroad. </p>
             </li> 
           </ul>
         </article>

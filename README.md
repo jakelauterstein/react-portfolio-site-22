@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Checkout the live site at the following link:
+
+[My Portfolio](https://jakelauterstein.github.io/react-portfolio-site-22/)
+
 ## Available Scripts
 
 In the project directory, you can run:
